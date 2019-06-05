@@ -1,0 +1,20 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "21-AxiosRefresher/package.json",
+        "22-WeatherNPM/package.json",
+        "23-GeocodeNPM/Solved/package.json",
+        "23-GeocodeNPM/Unsolved/package.json",
+        "24-PackageJSON/package.json",
+        "25-Inquirer_Intro/package.json",
+        "26-Inquirer_Users/Solved/package.json",
+        "26-Inquirer_Users/Unsolved/package.json",
+        "27-Inquirer_Geocode/Solved/package.json",
+        "27-Inquirer_Geocode/Unsolved/package.json",
+        "28-NodeDebug/package.json",
+        "29-ZombieChallenge/Solved/package.json"
+      ]
+    }
+  }
+}
